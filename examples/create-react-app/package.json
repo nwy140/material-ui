@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "material-ui": "next",
-    "prop-types": "latest",
+    "dayjs": "1.8.12",
     "react": "latest",
     "react-dom": "latest",
+    "react-live-clock": "3.1.0",
     "react-scripts": "latest"
   },
   "scripts": {
